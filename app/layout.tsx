@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Mathys Cogne", url: "https://github.com/MathysCogne" }],
   creator: "Mathys Cogne",
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"),
+  metadataBase: new URL("https://png-folder-to-webp.com"),
   openGraph: {
     type: "website",
     locale: "en_US",
